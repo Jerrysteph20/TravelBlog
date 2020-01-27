@@ -1,0 +1,64 @@
+.container{
+	margin:5%;
+	width:100%
+}
+body{
+	
+	background-color:rgb(197, 237, 255);
+	
+	
+	} 
+img{
+	height:100%;
+	width:350px;
+}
+
+.jumbotron{
+	background-image:url("rainforest.jpg");
+	background-size:cover;
+	color:black;
+	background-repeat:no-repeat;
+} 
+.navbar{
+	background-color:grey;
+}
+
+.navbar.nav-link{ 
+	
+}
+
+.nav-link:hover{
+	color:white;
+} 
+
+.navbar-brand{
+	color:black;
+}
+
+.navbar-brand:hover{
+	color:white;
+	} 
+	
+a{ 
+	color:black;
+} 
+
+.resize{
+	width:12%;
+	height:10%;
+	}
+.sidenav {
+  height: 200%;
+  width: 320px; 
+  top: 0;
+  left:0;
+  margin-bottom:0;
+  background-color: #111; 
+  overflow-x: hidden; 
+  padding-top: 20px;
+}
+.nav-item:hover{
+	color:white;
+} 
+.dropdown-itemj:hover{
+	color:white;
